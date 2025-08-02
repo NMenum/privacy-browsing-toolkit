@@ -1,9 +1,10 @@
 # 🔐 Privacy-First Browsing Toolkit
-![Top Tools](./privacy-tools-overview.png)
-![Top Tools](./assets/privacy-tools-overview.png)
+
+
 ---
 Welcome to a curated list of tools, extensions, and resources for safer, tracker-free web browsing.
-
+---
+![Top Tools](./privacy-tools-overview.png)
 ---
 ## 🌐 Search Engines
 | Tool                                 | What It Does                        | Why It Matters                         |
@@ -28,6 +29,7 @@ Welcome to a curated list of tools, extensions, and resources for safer, tracker
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | Strong privacy controls, open source |
 
 ---
+![ ](./tracking-flowchart.png)
 
 ## 🎥 Tutorials & Guides
 - **[Set Kagi as your default search engine](link)**  
