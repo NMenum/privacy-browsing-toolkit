@@ -1,5 +1,7 @@
 # 🔐 Privacy-First Browsing Toolkit
-
+![Top Tools](./assets/tracking-flowchart.png)
+![Top Tools](./assets/privacy-tools-overview.png)
+---
 Welcome to a curated list of tools, extensions, and resources for safer, tracker-free web browsing.
 
 ---
